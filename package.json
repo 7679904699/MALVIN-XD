@@ -5,7 +5,7 @@
   "description": "A WhatsApp Bot Created By Malvin King",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name MALVIN-XD",
+    "malvin~EqdBSSSY#p6H1-ymcE671YKnW9X0BsLsRbBusnsM4yBwfUZd54yc.js --deep-monitoring --attach --name MALVIN-XD",
     "stop": "pm2 stop MALVIN-XD",
     "restart": "pm2 restart MALVIN-XD"
   },
